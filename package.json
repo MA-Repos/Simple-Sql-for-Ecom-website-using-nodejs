@@ -1,0 +1,13 @@
+{
+  "name": "3005SQLiteSongs",
+  "version": "1.0.0",
+  "description": "test sqlite database",
+  "author": "Mir Abbas",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "morgan": "^1.6.1",
+    "sqlite3": "^4.0.6"
+  }
+}
